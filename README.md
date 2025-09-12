@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Sarfraz 👋</h1>
 
-<img align="bottom" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNqMjl6N214N2NleTU4bWE1Zm4xazlrbDltb2Yzeml2ZmtlbXpoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400"/>
+<img align="bottom" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV1ZWpoYXkxY3F3b2JiNG1mcWJsc3YyMGU0azRsM2RqbG90cWViaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="400"/>
 
 ---
 
