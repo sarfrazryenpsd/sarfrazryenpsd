@@ -24,11 +24,12 @@
 
 ---
 
-### 📢 Featured Project: Bondhub Chat App
-> Real-time messaging with Firebase Cloud Messaging  
-> Rich notification UI with sender thumbnails and previews  
-> Deep linking to specific chats and seamless navigation  
-> Built with Jetpack Compose and Clean Architecture principles
+### 📢 Featured Project: Sunnah Al-Hadi
+> **Asynchronous Initialization**: Application components are initialized in a staggered manner to optimize startup time  
+> **Theme Management**: Dynamic color support with theme mode selection (light/dark/system) 
+> **Adaptive UI**: Window size class implementation for different device form factors  
+> **Local Notifications**: Scheduling system for daily Sunnah reminders
+> **Privacy-First Approach**: No data collection, everything stays on-device
 
 ---
 
